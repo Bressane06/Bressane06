@@ -41,5 +41,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/Bressane06/Bressane06/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Bressane06/Bressane06/blob/output/github-contribution-grid-snake.gif" />
 </p>
+
