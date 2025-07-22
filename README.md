@@ -62,7 +62,7 @@
 ## 🌐 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINK">
+  <a href="https://www.linkedin.com/in/gabrielbressane">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
