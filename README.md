@@ -44,7 +44,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=trabalho-RENAMAUT&theme=radical)](https://github.com/Bressane06/trabalho-RENAMAUT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=ToolShare-Sistema-Emprestimo-Ferramentas&theme=radical)](https://github.com/Bressane06/ToolShare-Sistema-Emprestimo-Ferramentas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=DataBase_Patas_Urbanas&theme=radical)](https://github.com/Bressane06/Estudos-de-Data)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=DataBase_Patas_Urbanas&theme=radical)](https://github.com/Bressane06/DataBase_Patas_Urbanas)
 
 ---
 
