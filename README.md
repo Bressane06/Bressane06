@@ -71,6 +71,21 @@
 ---
 
 
+## 🏆 Certificações
+
+<p align="center">
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/f5864711542d46f4a6bf7e86a9ab8b9b" target="_blank">
+    <img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="200"/>
+  </a>
+</p>
+<p align="center">
+  <b>AWS Certified Cloud Practitioner</b>  
+</p>
+
+---
+
+
+
 
 ## 🌐 Contato
 
