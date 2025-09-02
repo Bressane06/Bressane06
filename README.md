@@ -57,7 +57,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=ToolShare-Sistema-Emprestimo-Ferramentas&theme=radical)](https://github.com/Bressane06/ToolShare-Sistema-Emprestimo-Ferramentas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=DataBase_Patas_Urbanas&theme=radical)](https://github.com/Bressane06/DataBase_Patas_Urbanas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=PB-CompassUOL-2024&theme=radical)](https://github.com/Bressane06/PB-CompassUOL-2024)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=estudosPandas&theme=radical)](https://github.com/Bressane06/estudosPandas)
 
 ---
 
