@@ -30,6 +30,8 @@
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Databricks-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ---
@@ -44,7 +46,6 @@
 </p>
 
 ---
-
 
 ## 📊 Estatísticas do GitHub
 
@@ -66,7 +67,6 @@
 
 ---
 
-
 ## 🐍 Contribuições
 
 <p align="center">
@@ -74,7 +74,6 @@
 </p>
 
 ---
-
 
 ## 🏆 Certificações
 
