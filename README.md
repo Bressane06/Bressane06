@@ -4,7 +4,7 @@
 
 🎓 Estudante de **Sistemas de Informação**
 
-🌱 Atualmente estudando **Python (Pandas), SQL, Power BI, C, Orientação a Objetos, Banco de Dados e Estruturas de Dados**
+🌱 Atualmente estudando **Python (Pandas), SQL, Power BI, C, Orientação a Objetos, Banco de Dados, Typescript e Estruturas de Dados**
 
 ---
 
