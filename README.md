@@ -54,8 +54,6 @@ Atualmente estudando **Python (Pandas), SQL, Power BI, C, Orientação a Objetos
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bressane06's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bressane06&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 </p>
 
-<b>Nota:</b> Top Languages é apenas uma métrica das linguagens meu código público e não reflete experiência ou nível de habilidade.
-
 
 <h3> Projetos </h3>
 
@@ -70,7 +68,6 @@ Atualmente estudando **Python (Pandas), SQL, Power BI, C, Orientação a Objetos
     <a href="https://github.com/Bressane06/PageSimulator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=PageSimulator&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PageSimulator"></a>
     <a href="https://github.com/Bressane06/SistemaTorneioFutebol-Banco_de_Dados"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=SistemaTorneioFutebol-Banco_de_Dados&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SistemaTorneioFutebol"></a>
 </p>
----
 
 ## Contribuições
 
