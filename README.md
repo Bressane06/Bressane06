@@ -1,14 +1,14 @@
 # 👋 Olá! Eu sou o Gabriel Bressane
 
-## 🚀 Sobre mim
+## Sobre mim
 
-🎓 Estudante de **Sistemas de Informação**
+Estudante de **Sistemas de Informação**
 
-🌱 Atualmente estudando **Python (Pandas), SQL, Power BI, C, Orientação a Objetos, Banco de Dados, Typescript e Estruturas de Dados**
+Atualmente estudando **Python (Pandas), SQL, Power BI, C, Orientação a Objetos, Banco de Dados, Typescript e Estruturas de Dados**
 
 ---
 
-## 🛠️ Linguagens de Programação
+## Linguagens de Programação
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 Ciência de Dados & BI
+## Ciência de Dados & BI
 
 <p align="center">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -36,7 +36,7 @@
 
 ---
 
-## ⚙️ Ferramentas e Plataformas
+## Ferramentas e Plataformas
 
 <p align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -47,27 +47,30 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h3> Estatísticas do GitHub </h3>
 
 <p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bressane06&show_icons=true&theme=radical" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bressane06&layout=compact&theme=radical" />
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bressane06's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Bressane06&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bressane06's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bressane06&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+</p>
+
+<b>Nota:</b> Top Languages é apenas uma métrica das linguagens meu código público e não reflete experiência ou nível de habilidade.
+
+
+<h3> Projetos </h3>
+
+<p align="left">
+    <a href="https://github.com/Bressane06/trabalho-RENAMAUT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=trabalho-RENAMAUT&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="trabalho-RENAMAUT"></a>
+    <a href="https://github.com/Bressane06/Sistema-Manutencao-Galactica"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=Sistema-Manutencao-Galactica&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Sistema-Manutencao-Galactica"></a>
+    <a href="https://github.com/Bressane06/ToolShare-Sistema-Emprestimo-Ferramentas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=ToolShare-Sistema-Emprestimo-Ferramentas&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ToolShare"></a>
+    <a href="https://github.com/Bressane06/DataBase_Patas_Urbanas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=DataBase_Patas_Urbanas&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DataBase_Patas_Urbanas"></a>
+    <a href="https://github.com/Bressane06/PB-CompassUOL-2024"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=PB-CompassUOL-2024&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PB-CompassUOL-2024"></a>
+    <a href="https://github.com/Bressane06/estudosPandas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=estudosPandas&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="estudosPandas"></a>
 </p>
 
 ---
 
-## 🌟 Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=trabalho-RENAMAUT&theme=radical)](https://github.com/Bressane06/trabalho-RENAMAUT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=Sistema-Manutencao-Galactica&theme=radical)](https://github.com/Bressane06/Sistema-Manutencao-Galactica)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=ToolShare-Sistema-Emprestimo-Ferramentas&theme=radical)](https://github.com/Bressane06/ToolShare-Sistema-Emprestimo-Ferramentas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=DataBase_Patas_Urbanas&theme=radical)](https://github.com/Bressane06/DataBase_Patas_Urbanas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=PB-CompassUOL-2024&theme=radical)](https://github.com/Bressane06/PB-CompassUOL-2024)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=estudosPandas&theme=radical)](https://github.com/Bressane06/estudosPandas)
-
----
-
-## 🐍 Contribuições
+## Contribuições
 
 <p align="center">
     <img src="https://github.com/Bressane06/Bressane06/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -75,23 +78,26 @@
 
 ---
 
-## 🏆 Certificações
+## Certificações
 
 <p align="center">
     <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/f5864711542d46f4a6bf7e86a9ab8b9b" target="_blank">
         <img src="aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="200"/>
     </a>
-</p>
-<p align="center">
-    <b>AWS Certified Cloud Practitioner</b>  
+    <a href="https://www.credly.com/badges/42aad203-9b15-4fb9-9ce1-37855c402a76/public_url" target="_blank">
+        <img src="https://www.vocecertificado.com.br/wp-content/uploads/2024/12/Badge-AI-Practitioner.webp" alt="AI Practitioner" width="200"/>
+    </a>
 </p>
 
+<p align="center">
+    <b>AWS Certified Cloud Practitioner</b> &nbsp;&nbsp;&nbsp; <b>AI Practitioner</b>
+</p>
 ---
 
 
 
 
-## 🌐 Contato
+## Contato
 
 <p align="center">
     <a href="https://www.linkedin.com/in/gabrielbressane">
