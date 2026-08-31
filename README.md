@@ -66,8 +66,10 @@ Atualmente estudando **Python (Pandas), SQL, Power BI, C, Orientação a Objetos
     <a href="https://github.com/Bressane06/DataBase_Patas_Urbanas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=DataBase_Patas_Urbanas&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DataBase_Patas_Urbanas"></a>
     <a href="https://github.com/Bressane06/PB-CompassUOL-2024"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=PB-CompassUOL-2024&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PB-CompassUOL-2024"></a>
     <a href="https://github.com/Bressane06/estudosPandas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=estudosPandas&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="estudosPandas"></a>
+    <a href="https://github.com/Bressane06/sgcm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=sgcm&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="sgcm"></a>
+    <a href="https://github.com/Bressane06/PageSimulator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=PageSimulator&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PageSimulator"></a>
+    <a href="https://github.com/Bressane06/SistemaTorneioFutebol-Banco_de_Dados"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=SistemaTorneioFutebol-Banco_de_Dados&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SistemaTorneioFutebol"></a>
 </p>
-
 ---
 
 ## Contribuições
