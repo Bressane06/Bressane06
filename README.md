@@ -54,6 +54,11 @@ Atualmente estudando **Python (Pandas), SQL, Power BI, C, Orientação a Objetos
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bressane06's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bressane06&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 </p>
 
+<h3> GitHub Trophies </h3>
+
+<p align="center">
+    <img src="https://trophy.ryglcloud.net/?username=Bressane06&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=4" />
+</p>
 
 <h3> Projetos </h3>
 
