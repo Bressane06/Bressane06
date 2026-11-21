@@ -50,8 +50,12 @@ Atualmente estudando **Python (Pandas), SQL, Power BI, C, Orientação a Objetos
 <h3> Estatísticas do GitHub </h3>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bressane06's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Bressane06&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bressane06's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bressane06&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Bressane06's Github Stats" src="https://github-stats-extended.vercel.app/api?username=Bressane06&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Bressane06's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bressane06&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    </a>
 </p>
 
 <h3> GitHub Trophies </h3>
@@ -63,15 +67,17 @@ Atualmente estudando **Python (Pandas), SQL, Power BI, C, Orientação a Objetos
 <h3> Projetos </h3>
 
 <p align="left">
-    <a href="https://github.com/Bressane06/trabalho-RENAMAUT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=trabalho-RENAMAUT&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="trabalho-RENAMAUT"></a>
-    <a href="https://github.com/Bressane06/Sistema-Manutencao-Galactica"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=Sistema-Manutencao-Galactica&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Sistema-Manutencao-Galactica"></a>
-    <a href="https://github.com/Bressane06/ToolShare-Sistema-Emprestimo-Ferramentas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=ToolShare-Sistema-Emprestimo-Ferramentas&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ToolShare"></a>
-    <a href="https://github.com/Bressane06/DataBase_Patas_Urbanas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=DataBase_Patas_Urbanas&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DataBase_Patas_Urbanas"></a>
-    <a href="https://github.com/Bressane06/PB-CompassUOL-2024"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=PB-CompassUOL-2024&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PB-CompassUOL-2024"></a>
-    <a href="https://github.com/Bressane06/estudosPandas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=estudosPandas&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="estudosPandas"></a>
-    <a href="https://github.com/Bressane06/sgcm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=sgcm&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="sgcm"></a>
-    <a href="https://github.com/Bressane06/PageSimulator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=PageSimulator&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PageSimulator"></a>
-    <a href="https://github.com/Bressane06/SistemaTorneioFutebol-Banco_de_Dados"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=SistemaTorneioFutebol-Banco_de_Dados&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SistemaTorneioFutebol"></a>
+    <a href="https://github.com/Bressane06/trabalho-RENAMAUT"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=Bressane06&repo=trabalho-RENAMAUT&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="trabalho-RENAMAUT"></a>
+    <a href="https://github.com/Bressane06/Sistema-Manutencao-Galactica"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=Bressane06&repo=Sistema-Manutencao-Galactica&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Sistema-Manutencao-Galactica"></a>
+    <a href="https://github.com/Bressane06/ToolShare-Sistema-Emprestimo-Ferramentas"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=Bressane06&repo=ToolShare-Sistema-Emprestimo-Ferramentas&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ToolShare"></a>
+    <a href="https://github.com/Bressane06/DataBase_Patas_Urbanas"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=Bressane06&repo=DataBase_Patas_Urbanas&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DataBase_Patas_Urbanas"></a>
+    <a href="https://github.com/Bressane06/PB-CompassUOL-2024"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=Bressane06&repo=PB-CompassUOL-2024&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PB-CompassUOL-2024"></a>
+    <a href="https://github.com/Bressane06/estudosPandas"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=Bressane06&repo=estudosPandas&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="estudosPandas"></a>
+    <a href="https://github.com/Bressane06/microservico-sistema-chamados"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=Bressane06&repo=microservico-sistema-chamados&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="microservico-sistema-chamados"></a>
+    <a href="https://github.com/Bressane06/PageSimulator"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=Bressane06&repo=PageSimulator&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PageSimulator"></a>
+    <a href="https://github.com/Bressane06/SistemaTorneioFutebol-Banco_de_Dados"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=Bressane06&repo=SistemaTorneioFutebol-Banco_de_Dados&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SistemaTorneioFutebol"></a>
+    <a href="https://github.com/Bressane06/sgcm"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=Bressane06&repo=sgcm&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="sgcm"></a>
+    <a href="https://github.com/Bressane06/predicao-resultados-campeonato-brasileiro"><img width="278" src="https://github-stats-extended.vercel.app/api/pin/?username=Bressane06&repo=predicao-resultados-campeonato-brasileiro&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="predicao-resultados-campeonato-brasileiro"></a>
 </p>
 
 ## Contribuições
